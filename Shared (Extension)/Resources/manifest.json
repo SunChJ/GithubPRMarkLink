@@ -38,9 +38,4 @@
             "72": "images/toolbar-icon-72.png"
         }
     },
-
-    "permissions": [
-        "activeTab",
-        "https://github.com/*",
-    ]
 }
